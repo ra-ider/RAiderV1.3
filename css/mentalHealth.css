@@ -1,0 +1,61 @@
+ *{
+    color: 	#000000;
+    font-family: 'Lato', sans-serif;
+}
+#help-yourself-title {
+    background-color: #030303;
+    color: #ffffff;
+}
+
+#help-yourself-title div {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 62px;
+    padding-top: 62px;
+    padding-bottom: 62px;
+    width: 75%;
+    color: #ffffff;
+}
+
+#help-yourself-looking-after-yourself, .main-header, .looking-after-description {
+    background-color: #fff8f2;
+    text-align: center;
+    color: #2c2c2c;
+}
+
+#help-yourself-looking-after-yourself {
+    padding-bottom: 124px;
+}
+
+.main-header {
+    font-size: 40px;
+    padding-bottom: 62px;
+    width: 67%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.looking-after-tip {
+    font-size: 32px;
+    padding-bottom: 32px;
+    color: #FF6347;
+}
+
+.looking-after-description {
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 124px;
+    width: 67%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#help-yourself-looking-after-yourself img {
+    margin-right: auto;
+    margin-left: auto;
+    width: 67%;
+    height: auto;
+    border-radius: 5%;
+    margin-bottom: 124px;
+}

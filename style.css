@@ -1,0 +1,67 @@
+* {
+  background-color: transparent;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.quote {
+  position: absolute;
+  top: 33%;
+  right: 10px;
+  align-items: center;
+}
+
+/* .quote {
+  position: absolute;
+  top: 10%;
+  right: 10px;
+  align-items: center;
+} */
+
+.quote2 {
+  position: absolute;
+  top: 30%;
+  align-items: center;
+}
+
+.home {
+  background-image: url("image/bg1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 340px;
+  margin: 0px 0px 10px 0px;
+  /* border-radius: 0px 0px 25px 25px; */
+}
+
+.about {
+  background-image: url("image/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
+  margin: 10px 0px 10px 0px;
+  /* border-radius: 25px; */
+}
+
+.about h1 {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.product {
+  background-image: url("image/bg2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* height: 1000px; */
+}
+
+.product h1 {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
